@@ -29,5 +29,8 @@ key value (7) - the key value is 7 is in the list, its position 1 is displayed.
 
 key value (67) - the key value 67 is in the list, its position 7 is displayed.
 
-![output]
+![output] ![Screenshot (68)](https://user-images.githubusercontent.com/69679445/90315420-1b28a580-df39-11ea-9dad-07572621daeb.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/69679445/90315421-1cf26900-df39-11ea-8f74-6f12a48b68c7.png)
+![Screenshot (67)](https://user-images.githubusercontent.com/69679445/90315422-1cf26900-df39-11ea-972f-98b6b8ddec40.png)
+
 
