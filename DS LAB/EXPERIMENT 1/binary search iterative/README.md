@@ -1,5 +1,5 @@
 # BINARY SEARCH ITERATIVE
-## AIM : To find the lement using binary search
+## AIM : To find the element using binary search
 ### DESCRIPTION : Binary search is a search algorithm to find the position of a key value(k) within the sorted array. It’s best case is O(1), and the worst case is O(logn).
 #### step by step procedure :-
 1.When user gives the key value, binary search divides the array into half to find the middle element position.
@@ -15,6 +15,6 @@ n = upper bound.
 
 4.Now the array is again divided into half, repeating the above 2,3 steps. Across steps 2 & 3 if the key value matches to the middle element itself then the search process would be stopped.
 
-5. If the key value is found, then it displays the position of key value. If the key value is not found, then it returns index -1.
+5.If the key value is found, then it displays the position of key value. If the key value is not found, then it returns index -1.
 
 
