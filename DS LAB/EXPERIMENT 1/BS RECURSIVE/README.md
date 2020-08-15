@@ -6,7 +6,9 @@
 1.In this method, the function calls itself again and again with a different set of values.
 When user gives the key value, binary search divides the array into half to find the middle element position.
 Key is the number to be searched in the list of elements. “mid" is obtained by calculating (low+high)/2.
+
 0 = lower bound
+
 n = upper bound.
 
 2.Considering the middle element position, now it searches if the key value falls in the first half or second half of an array.
