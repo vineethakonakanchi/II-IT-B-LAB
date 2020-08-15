@@ -25,4 +25,7 @@ given array 4,7,9,11,15,16,21,31,67,98
  # OUTPUT 2 
  key value (99) - the key value is not found in the givven array, so it returns index -1.
  
- ![output]
+ ![output]![Screenshot (61)](https://user-images.githubusercontent.com/69679445/90312671-e4946000-df23-11ea-8621-10b159752320.png)
+ 
+![Screenshot (63)](https://user-images.githubusercontent.com/69679445/90312674-e65e2380-df23-11ea-9f45-dcc51f553dbf.png)
+
