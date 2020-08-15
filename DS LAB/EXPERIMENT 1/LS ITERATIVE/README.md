@@ -23,4 +23,7 @@
  # OUTPUT 2 
  key value (99) - the key value is not found in the givven array, so it returns index -1.
  
- ![output]
+ ![output]![Screenshot (65)](https://user-images.githubusercontent.com/69679445/90312348-659e2800-df21-11ea-8307-82ffd06cdf77.png)
+![Screenshot (66)](https://user-images.githubusercontent.com/69679445/90312349-66cf5500-df21-11ea-8fcd-1f0b6849549d.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/69679445/90312350-6767eb80-df21-11ea-8389-18eba72c6a47.png)
+
