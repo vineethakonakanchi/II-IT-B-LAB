@@ -31,4 +31,7 @@ key value (7) - if the key value is 7, it is found in the position 1 in the give
 
 keyvalue (67) - if the key value is 67, it is found in the position 67 in the given array.
 
-![output](
+![output]![Screenshot (65)](https://user-images.githubusercontent.com/69679445/90312348-659e2800-df21-11ea-8307-82ffd06cdf77.png)
+![Screenshot (66)](https://user-images.githubusercontent.com/69679445/90312349-66cf5500-df21-11ea-8fcd-1f0b6849549d.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/69679445/90312350-6767eb80-df21-11ea-8389-18eba72c6a47.png)
+
