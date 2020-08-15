@@ -17,4 +17,18 @@ n = upper bound.
 
 5.If the key value is found, then it displays the position of key value. If the key value is not found, then it returns index -1.
 
+In the array 4,7,9,11,15,16,21,31,67,98 
 
+## OUTPUT 1
+
+key value (16) - if the key value is 16, it is found in the postion 5 in the given array.
+
+## OUTPUT 2
+
+key value (7) - if the key value is 7, it is found in the position 1 in the given array.
+
+## OUTPUT 3
+
+keyvalue (67) - if the key value is 67, it is found in the position 67 in the given array.
+
+![output](
