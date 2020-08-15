@@ -28,6 +28,8 @@ n = upper bound.
 3.If the key value is greater than the mid value(m=array[n]), then the second half is taken into consideration ignoring the first half (k > m). If the key value is lesser than the mid value, then first half is considered ignoring the second half (k<m).
 4.Now the array is again divided into half, repeating the above 2,3 steps. Across steps 2 & 3 if the key value matches to the middle element itself then the search process would be stopped.
 5. If the key value is found, then it displays the position of key value. If the key value is not found, then it returns index -1.
+
+
 For example – given array (1,2,3,4,5,6,7,8,9)
                                Key value is 6
 •	Having Above array has 8 index positions.
