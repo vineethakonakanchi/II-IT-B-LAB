@@ -3,7 +3,8 @@
 ### description : Binary search is a search algorithm to find the position of a key value(k) within the sorted array. It’s best case is O(1), and the worst case is O(logn).
 #### step by step procedure :
 
-1.When user gives the key value, binary search divides the array into half to find the middle element position.
+1.In this method, the function calls itself again and again with a different set of values.
+When user gives the key value, binary search divides the array into half to find the middle element position.
 Key is the number to be searched in the list of elements. “mid" is obtained by calculating (low+high)/2.
 0 = lower bound
 n = upper bound.
