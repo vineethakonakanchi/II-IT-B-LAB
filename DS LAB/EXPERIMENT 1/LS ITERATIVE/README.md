@@ -16,14 +16,13 @@
 
 4.If the element is not found, then it gives the return value -1 which means given key value is not in the list or array.
 
-# OUTPUT 1 given array 4,7,9,11,15,16,21,31,67,98
+# OUTPUT 1 
+
+given array 4,7,9,11,15,16,21,31,67,98
 
  key value (15) - the key value is 15, it is found in the position 4
  
  # OUTPUT 2 
  key value (99) - the key value is not found in the givven array, so it returns index -1.
  
- ![output]![Screenshot (65)](https://user-images.githubusercontent.com/69679445/90312348-659e2800-df21-11ea-8307-82ffd06cdf77.png)
-![Screenshot (66)](https://user-images.githubusercontent.com/69679445/90312349-66cf5500-df21-11ea-8fcd-1f0b6849549d.png)
-![Screenshot (64)](https://user-images.githubusercontent.com/69679445/90312350-6767eb80-df21-11ea-8389-18eba72c6a47.png)
-
+ ![output]
