@@ -32,4 +32,5 @@ public class AddBinaryNum {
    }
 }
 
+![AddBinaryNum](https://user-images.githubusercontent.com/69679445/122378892-fb607480-cf83-11eb-97af-acf6cdd20d1f.PNG)
 
