@@ -32,4 +32,4 @@ public class AddBinaryNum {
    }
 }
 
-AddBinaryNum.PNG
+![](AddBinaryNum.PNG)
