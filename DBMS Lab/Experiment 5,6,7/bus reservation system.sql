@@ -32,5 +32,5 @@ SELECT r.tno, p.name FROM reservation r , passenger p WHERE p.pid = r.pid;
 SELECT r.tno FROM reservation r, passenger p WHERE p.pname LIKE 'R%h' AND p.pid = r.pid;
 SELECT p.name FROM passenger p WHERE  p.age >= 30 AND  p.age <= 45;
 SELECT p.name FROM passenger p WHERE p.name LIKE 'A%';
- SELECT p.name FROM passenger p ORDER BY p.name ASC;
+SELECT p.name FROM passenger p ORDER BY p.name ASC;
 
